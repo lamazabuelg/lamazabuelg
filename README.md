@@ -1,8 +1,8 @@
 ### Hi there 👋
 I'm **Luis Ángel** and I really enjoy to work with data.
 
-I work as Data Scientist at @[Hunty](https://hunty.com), but as an *Philosopher* I love to learn and practice Machine Learning and Deep Learning related with some Natural Language Processing tasks.
-I hope one day, one of my thought can be usefull for the Artificial Intelligence improvements and **change the world! 🚀**
+I work as Data Scientist at @[Hunty](https://hunty.com), but as a *Philosopher* I love to learn and practice Machine Learning and Deep Learning related with some Natural Language Processing tasks.
+I hope one day one of my ideas can be useful for AI improvements and **change the world! 🚀**
 
 ### I can help you with:
 
